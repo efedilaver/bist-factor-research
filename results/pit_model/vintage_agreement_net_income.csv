@@ -1,0 +1,2 @@
+field,comparisons,raw_changed,raw_changed_share,changed_median_raw_ratio,changed_restored_within_1pct,changed_restored_within_3pct,changed_restored_off_by_5pct,changed_restored_off_by_20pct
+net_income,2545,469,0.18428290766208252,1.278766754603319,0.9573560767590619,0.9658848614072495,0.021321961620469083,0.014925373134328358

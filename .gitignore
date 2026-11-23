@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Gizli bilgiler
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials*.json
+secrets*
+
+# Veri: lisanslı ham veri ve önbellekler repoya girmez
+/data/
+*.parquet
+*.xlsx
+*.xls
+*.feather
+*.pkl
+
+# Notebook'lar (çıktılar veri içerebilir)
+*.ipynb
+
+# İşletim sistemi / editör
+.DS_Store
+.idea/
+.vscode/
+
+# Diğer veri / yerel çıktılar
+*.zip
+*.duckdb
+*.db
+*.log
+/*.csv
+.claude/

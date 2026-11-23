@@ -1,0 +1,25 @@
+Takvim dışı mali yıl nedeniyle çıkarılan kod sayısı: 13 (bunlar dahil Q4 geç payı: 0.103, 5403 rapor)
+
+Dönem sonundan 90 günden geç yayımlanan ilk raporların payı:
+
+        filings  median_lag  late_share
+period                                 
+1          4616        39.0       0.008
+2          5238        41.0       0.026
+3          4468        36.0       0.002
+4          5310        61.0       0.089
+
+Yıl sonu (Q4) raporları, mali yıla göre:
+
+      filings  late_share
+year                     
+2016      420       0.021
+2017      438       0.011
+2018      444       0.014
+2019      451       0.013
+2020      461       0.011
+2021      519       0.010
+2022      566       0.016
+2023      629       0.622
+2024      669       0.015
+2025      705       0.024
